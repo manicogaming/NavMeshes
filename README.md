@@ -1,5 +1,6 @@
 # Improved NavMesh Megapack
 All of my NavMeshes for CS:GO. I will keep adding new NavMeshes and Updating the current ones.
+Some NavMeshes that are added can be just the generated ones.
 
 These NavMeshes were made by:
 
